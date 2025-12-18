@@ -7,7 +7,7 @@ import'./App.css'
 const App=()=>{
   return(
     <div className="App">
-      uwase divine
+      Uwera
       <Router>
         <NavBar />
 <Routes>
